@@ -1,16 +1,14 @@
-### Hi there 👋
+## Frontend developer going on full stack!! 💪
 
-<!--
-**klimenko3007/klimenko3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer with an ambition to become a fullstack developer. My coding journey started over a year ago when I decided to build a webpage for an event I was organizing. After doing couple of hobby projects, I got hooked on programming with JS, quit my job and started a intensive bootcamp to learn coding professionally. I love coding because it allows me to work with solving problems and I can learn new things all the time! I love working in a team and am used to being a part of a multicultural work environment.
 
-Here are some ideas to get you started:
+### Tech stack 💻
+JS, React, Redux, Node.js, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now ❗
+- 🔭 I’m currently working on fullstack project Moody
+- 🌱 I’m currently learning fullstack JS development with </salt>
+- 📫 How to reach me: klimenko3007@gmail.com
+
+### Fun fact 👻
+🐈 🐈 🐈  I love to code all night and only cats can stop me! 🐈 🐈 🐈
