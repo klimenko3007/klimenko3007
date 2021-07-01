@@ -7,7 +7,7 @@ JS, React, Redux, Styled Components, Node.js, HTML, CSS
 
 ### Now ❗
 - 🔭 I’m currently working on fullstack project Moody
-- 🌱 I’m currently learning fullstack JS development with </salt>
+- 🌱 I’m currently learning fullstack JS development with Salt
 - 📫 How to reach me: klimenko3007@gmail.com
 
 ### Fun fact 👻
