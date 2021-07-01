@@ -10,5 +10,8 @@ JS, React, Redux, Styled Components, Node.js, HTML, CSS
 - 🌱 I’m currently learning fullstack JS development with Salt
 - 📫 How to reach me: klimenko3007@gmail.com
 
+### Portfolio 💼
+https://ekaterina-klimenko-portfolio.netlify.app/
+
 ### Fun fact 👻
 🐈 🐈 🐈  I love to code all night and only cats can stop me! 🐈 🐈 🐈
