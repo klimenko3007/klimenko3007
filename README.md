@@ -6,7 +6,6 @@ I am a frontend developer with an ambition to become a fullstack developer. My c
 JS, React, Redux, Styled Components, Node.js, HTML, CSS
 
 ### Now ❗
-- 🔭 I’m currently working on fullstack project Moody
 - 🌱 I’m currently learning fullstack JS development with Salt
 - 📫 How to reach me: klimenko3007@gmail.com
 
