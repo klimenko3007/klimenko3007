@@ -6,7 +6,7 @@ I am a frontend developer with an ambition to become a fullstack developer. My c
 JS, TypeScript, React, Redux, Angular, SASS, Styled Components, Node.js, HTML, CSS
 
 ### Now ❗
-- 🌱 I’m currently learning TypeScript and Angular
+- 🌱 I’m currently woriking with TypeScript and Angular
 - 📫 How to reach me: klimenko3007@gmail.com
 
 ### Portfolio 💼
